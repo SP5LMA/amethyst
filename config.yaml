@@ -23,15 +23,15 @@ menu:
   #   - name: "Sample"
   #     url: "https://google.com"
   #     weight: 10
-  after:
-    - name: "Github"
-      url: "https://github.com/64bitpandas/amethyst"
-      weight: 10
+#  after:
+#    - name: "Github"
+#      url: "https://github.com/64bitpandas/amethyst"
+#      weight: 10
 
 params:
 
-  name: Ben Cuan
-  title: 📓 Amethyst
+  name: Łukasz Makowski
+  title: 📡GE505 - Laboratorium Przetwarzania i Przesyłania Sygnałów
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'
@@ -70,7 +70,7 @@ params:
   enableMermaid: true
 
   # Link to your Github repo
-  GitHubLink: https://github.com/64bitpandas/amethyst
+  GitHubLink: https://github.com/SP5LMA
 
   # Search (WIP)
   search:
@@ -84,11 +84,11 @@ params:
 
   
   # Footer links
-  links:
-    - link_name: Website
-      link: https://bencuan.me
-    - link_name: Blog
-      link: https://blog.bencuan.me
+  #  links:
+  #    - link_name: Website
+  #      link: https://www.makowski.edu.pl
+  #    - link_name: Blog
+  #      link: https://blog.bencuan.me
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
@@ -127,7 +127,7 @@ params:
   # Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  BookDateFormat: "January 2, 2006"
+  BookDateFormat: "2006, January 2"
 
 
   # (Optional, default true) Enables comments template on pages
